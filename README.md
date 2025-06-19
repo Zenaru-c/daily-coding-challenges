@@ -1,2 +1,2 @@
 # daily-coding-challenges
-Daily programming tasks to sharpen my skills.
+Daily programming challenges to sharpen my skills.
